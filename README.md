@@ -1,2 +1,2 @@
-# CRT.github.io
+# crt.github.io
 HALO, SELAMAT DATANG
