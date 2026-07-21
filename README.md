@@ -1,3 +1,1 @@
-# crt.github.io
 HALO, SELAMAT DATANG
-HALO HALO HALO
